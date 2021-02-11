@@ -1,5 +1,5 @@
 # package
-Packets for download
+Package for download
 
 # This Repository is more for my use so don't open any issues
 
