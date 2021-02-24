@@ -3,11 +3,11 @@ Package for download
 
 # This Repository is more for my use so don't open any issues
 
-# Download via wget
+# Download via curl
 
 # whereis 
- wget https://github.com/thelearn-tech/package/blob/main/whereis?raw=true
+ ***curl https://raw.githubusercontent.com/thelearn-tech/package/main/whereis > whereis***
 
 # neofetch
 
-wget https://github.com/thelearn-tech/package/blob/main/neofetch?raw=true
+***curl https://raw.githubusercontent.com/thelearn-tech/package/main/neofetch > neofetch***
