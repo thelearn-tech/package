@@ -11,3 +11,7 @@ Package for download
 # neofetch
 
 ***curl https://raw.githubusercontent.com/thelearn-tech/package/main/neofetch > neofetch***
+
+# nmap
+
+***wget https://github.com/thelearn-tech/package/raw/main/nmap***
